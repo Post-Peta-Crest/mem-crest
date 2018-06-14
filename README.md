@@ -4,7 +4,8 @@
 
 - PI: [Toshio Endo](http://www.el.gsic.titech.ac.jp/~endo/index.html.en) (Tokyo Tech)
 - co-PI: Hiroko Midorikawa (Seikei Univ)
-- Members: Yukinori Sato, Shimpei Sato, Noboru Tanabe (Tokyo Tech, as of Mar 2018)
+- Members: Yukinori Sato, Shimpei Sato, Noboru Tanabe, Tomoya Yuki (Tokyo Tech, as of Mar 2018)
+- Research Period: Oct 2012 - Mar 2018
 - [Summary Slides](./endo-isp2s2-2017.pdf)
 
 ## Published software
