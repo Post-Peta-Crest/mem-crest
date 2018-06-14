@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Placeholder for mem-crest page
 
 You can use the [editor on GitHub](https://github.com/Post-Peta-Crest/sample/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
