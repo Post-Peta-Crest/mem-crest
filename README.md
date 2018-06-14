@@ -1,8 +1,9 @@
-## Placeholder for mem-crest page
+## Team Description
 
-You can use the [editor on GitHub](https://github.com/Post-Peta-Crest/sample/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- PI: [Toshio Endo](http://www.el.gsic.titech.ac.jp/~endo/) (Tokyo Tech)
+- co-PI: Hiroko Midorikawa (Seikei Univ)
+- Members: Yukinori Sato, Shimpei Sato, Noboru Tanabe (Tokyo Tech, as of Mar 2018)
+- [Summary Slides](./endo-isp2s2-2017.pdf)
 
 ### Markdown
 
