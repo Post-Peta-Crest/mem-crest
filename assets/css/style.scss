@@ -1,0 +1,45 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1.project-name{
+   font-size: 2em;
+}
+
+.page-header {
+   padding: 2rem 4rem;
+}
+
+.btn{
+   margin-bottom: 0rem;
+}
+
+div.leader{
+   font-weight: bold;
+   color: white;
+   margin-top: 25px;
+   margin-bottom: 10px;
+}
+
+div.members{
+   color: white;
+   font-weight: normal;
+}
+
+.main-content p {
+   text-align: justify;
+}
+
+.main-content h1 {
+   font-size: 1.5em;
+   color: #155799;
+   font-weight: bold;
+}
+
+
+.main-content h2 {
+   font-size: 1.2em;
+font-weight: bold;
+   border-bottom: solid 2px #159957;
+}
