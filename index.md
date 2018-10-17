@@ -5,8 +5,7 @@ title: Software Technology that Deals with Deeper Memory Hierarchy in Post-petas
 # Team Description
 
 - PI: [Toshio Endo](http://www.el.gsic.titech.ac.jp/~endo/index.html.en) (Tokyo Tech)
-- co-PI: Hiroko Midorikawa (Seikei Univ)
-- Members: Yukinori Sato, Shimpei Sato, Noboru Tanabe, Tomoya Yuki (Tokyo Tech, as of Mar 2018)
+- co-PI: Hiroko Midorikawa (Seikei Univ), Yukinori Sato (ex: JAIST, until Mar 2015. Currently Toyohashi Univ of Tech)
 - Research Period: Oct 2012 - Mar 2018
 - [Summary Slides](./endo-isp2s2-2017.pdf)
 
