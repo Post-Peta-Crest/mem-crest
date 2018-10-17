@@ -5,7 +5,7 @@ title: Software Technology that Deals with Deeper Memory Hierarchy in Post-petas
 # Team Description
 
 - PI: [Toshio Endo](http://www.el.gsic.titech.ac.jp/~endo/index.html.en) (Tokyo Tech)
-- co-PI: Hiroko Midorikawa (Seikei Univ), Yukinori Sato (ex: JAIST, until Mar 2015. Currently Toyohashi Univ of Tech)
+- co-PI: Hiroko Midorikawa (Seikei Univ), Yukinori Sato (Toyohashi Univ of Tech) (until Mar 2015)
 - Research Period: Oct 2012 - Mar 2018
 - [Summary Slides](./endo-isp2s2-2017.pdf)
 
@@ -19,6 +19,8 @@ title: Software Technology that Deals with Deeper Memory Hierarchy in Post-petas
 
 On Exa-scale supercomputers, the “Memory Wall” problem will become even more severe, which prevents the realization of Extremely Fast&Big Simulations.
 This project promotes research towards this problem via co-design approach among application algorithms, system software, architecture.
+
+![Overview](./img/overview.png)
 
 # Integration of Application Algorithms, System Software and Architecture for Large Data Applications
 
